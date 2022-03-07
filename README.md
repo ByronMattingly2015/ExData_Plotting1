@@ -12,7 +12,7 @@ the course web site:
 
 * <b>Description</b>: Measurements of electric power consumption in
 one household with a one-minute sampling rate over a period of almost
-4 years. Different electrical quantities and some sub-metering values
+four (4) years. Different electrical quantities and some sub-metering values
 are available.
 
 
@@ -34,9 +34,6 @@ web site</a>:
 </ol>
 
 ## Loading the data
-
-
-
 
 
 When loading the dataset into R, please consider the following:
